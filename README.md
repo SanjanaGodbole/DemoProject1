@@ -1,3 +1,3 @@
 # git and GitHub practice
 
-by Sanjana
+by Sanjana Godbole
