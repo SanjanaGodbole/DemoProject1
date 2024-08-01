@@ -1,3 +1,4 @@
 # git and GitHub practice
 
-by Sanjana shende.
+by Sanjana Shende.
+by Sanjana Godbole.
